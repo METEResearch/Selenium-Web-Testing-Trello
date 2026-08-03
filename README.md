@@ -1,25 +1,4 @@
-![Selenium-Web-Testing-Trello](https://socialify.git.ci/walidbosso/Selenium-Web-Testing-Trello/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
 
-<p align="center">
-<a href="https://github.com/walidbosso/Selenium-Web-Testing-Trello">
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/> </a>
-</p>
-<div align="center">
-  
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=walidbosso&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/walidbosso/Selenium-Web-Testing-Trello)
-
-  <p align="center">
-<a href="https://github.com/walidbosso/Selenium-Web-Testing-Trello">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwalidbosso%2FSelenium-Web-Testing-Trello&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
-</p>
-
-<a href="https://github.com/walidbosso/Selenium-Web-Testing-Trello">
-  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/>
-  <a/>
-</a>
-
-
-<br/>
 
 # Selenium Web Testing for Trello
 
@@ -91,19 +70,17 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 <div align="center">
   
 ----------------------
-> >  <br/> &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  
+> >  <br/> &copy; *by Explo* <br/>  
 ----------------------
 
 <details>
-
-<summary>👏 Thanks for the support </summary>
 
 ## Stargazers
 
 
 <div align="center">
 
-[![Stargazers repo roster for @walidbosso/Selenium-Web-Testing-Trello](http://reporoster.com/stars/dark/walidbosso/Selenium-Web-Testing-Trello)](https://github.com/walidbosso/Selenium-Web-Testing-Trello/stargazers)
+[![Stargazers repo roster for @ExploAi/Selenium-Web-Testing-Trello](http://reporoster.com/stars/dark/ExploAi/Selenium-Web-Testing-Trello)](https://github.com/ExploAi/Selenium-Web-Testing-Trello/stargazers)
 
 
 
@@ -113,51 +90,45 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 <div align="center" >
 
-[![Forkers repo roster for @walidbosso/Selenium-Web-Testing-Trello](http://reporoster.com/forks/dark/walidbosso/Selenium-Web-Testing-Trello)](https://github.com/walidbosso/Selenium-Web-Testing-Trello/network/members)
+[![Forkers repo roster for @ExploAi/Selenium-Web-Testing-Trello](http://reporoster.com/forks/dark/ExploAi/Selenium-Web-Testing-Trello)](https://github.com/ExploAi/Selenium-Web-Testing-Trello/network/members)
 
 </div>
 
-## Contributors
-
-<a href = "https://github.com/walidbosso">
-  <img src = "https://contrib.rocks/image?repo=walidbosso/Selenium-Web-Testing-Trello"/>
-</a>
 
 
 <br/></details><br/>
 
  <p align="center">
-<a href="https://www.buymeacoffee.com/walidbosso"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=walidbosso&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
+<a href="https://www.buymeacoffee.com/ExploAi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ExploAi&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
 </p>
 
 <div align="center">
 
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/walidbosso/Selenium-Web-Testing-Trello?style=social)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ExploAi/Selenium-Web-Testing-Trello?style=social)
 
 </div>
 <div align="center">
 
-![GitHub License](https://img.shields.io/github/license/walidbosso/Selenium-Web-Testing-Trello?style=social)
+![GitHub License](https://img.shields.io/github/license/ExploAi/Selenium-Web-Testing-Trello?style=social)
 
 
 
 
 </div>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/ExploAi">
+  <img src = "https://github.com/ExploAi/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
+<a href = "https://github.com/ExploAi">
+  <img src = "https://github.com/ExploAi/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/ExploAi">
+  <img src = "https://github.com/ExploAi/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
-𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢!
 
 <br/>
 
