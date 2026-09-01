@@ -70,7 +70,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 <div align="center">
   
 ----------------------
-> >  <br/> &copy; *by Explo* <br/>  
+> >  <br/> &copy; *by METE Research* <br/>  
 ----------------------
 
 <details>
@@ -80,7 +80,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 <div align="center">
 
-[![Stargazers repo roster for @ExploAi/Selenium-Web-Testing-Trello](http://reporoster.com/stars/dark/ExploAi/Selenium-Web-Testing-Trello)](https://github.com/ExploAi/Selenium-Web-Testing-Trello/stargazers)
+[![Stargazers repo roster for @METE Research/Selenium-Web-Testing-Trello](http://reporoster.com/stars/dark/METEResearch/Selenium-Web-Testing-Trello)](https://github.com/METEResearch/Selenium-Web-Testing-Trello/stargazers)
 
 
 
@@ -90,7 +90,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 <div align="center" >
 
-[![Forkers repo roster for @ExploAi/Selenium-Web-Testing-Trello](http://reporoster.com/forks/dark/ExploAi/Selenium-Web-Testing-Trello)](https://github.com/ExploAi/Selenium-Web-Testing-Trello/network/members)
+[![Forkers repo roster for @METE Research/Selenium-Web-Testing-Trello](http://reporoster.com/forks/dark/METEResearch/Selenium-Web-Testing-Trello)](https://github.com/METEResearch/Selenium-Web-Testing-Trello/network/members)
 
 </div>
 
@@ -99,34 +99,34 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 <br/></details><br/>
 
  <p align="center">
-<a href="https://www.buymeacoffee.com/ExploAi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ExploAi&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
+<a href="https://www.buymeacoffee.com/METE Research"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=METE Research&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
 </p>
 
 <div align="center">
 
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/ExploAi/Selenium-Web-Testing-Trello?style=social)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/METEResearch/Selenium-Web-Testing-Trello?style=social)
 
 </div>
 <div align="center">
 
-![GitHub License](https://img.shields.io/github/license/ExploAi/Selenium-Web-Testing-Trello?style=social)
+![GitHub License](https://img.shields.io/github/license/METEResearch/Selenium-Web-Testing-Trello?style=social)
 
 
 
 
 </div>
 
-<a href = "https://github.com/ExploAi">
-  <img src = "https://github.com/ExploAi/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/METEResearch">
+  <img src = "https://github.com/METEResearch/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/ExploAi">
-  <img src = "https://github.com/ExploAi/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
+<a href = "https://github.com/METEResearch">
+  <img src = "https://github.com/METEResearch/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/ExploAi">
-  <img src = "https://github.com/ExploAi/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/METEResearch">
+  <img src = "https://github.com/METEResearch/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
 
